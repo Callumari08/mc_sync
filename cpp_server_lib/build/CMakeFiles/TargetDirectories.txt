@@ -1,0 +1,3 @@
+/home/cal/Code/cpp/mc_sync/cpp_server_lib/build/CMakeFiles/mc_sync_server_lib.dir
+/home/cal/Code/cpp/mc_sync/cpp_server_lib/build/CMakeFiles/edit_cache.dir
+/home/cal/Code/cpp/mc_sync/cpp_server_lib/build/CMakeFiles/rebuild_cache.dir

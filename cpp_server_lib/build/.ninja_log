@@ -1,0 +1,4 @@
+# ninja log v6
+197	229	1741118621591833319	mc_sync_server_lib	1fbc3b223498ea60
+0	237	1741119025295090883	CMakeFiles/mc_sync_server_lib.dir/src/main.cpp.obj	a711a63e3751d488
+237	259	1741119025532974996	mc_sync_server_lib.exe	18ca26d48f6ae4e8
